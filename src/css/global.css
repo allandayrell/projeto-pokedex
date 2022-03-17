@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins', sans-serif;
+} 
+
+main {
+    min-height: 100vh;
+    background-color: #c2e3f7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokedex {
+    display: flex; /*divide os dois filhos da pokedex e deixa eles em linha*/
+    gap: 30px; /*espaço entre filhos*/
+    padding:30px 0;
+}
+
+/*cor cinza de fundo #DADFE8*/

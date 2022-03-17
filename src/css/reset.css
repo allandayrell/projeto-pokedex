@@ -1,0 +1,10 @@
+* {
+    padding:0;/*espaço entre conteudo e borda*/
+    margin: 0;/*espaço entre margem da pag e borda*/
+    box-sizing: border-box;/*encaixa o conteudo no padding e margin*/
+}
+/*reset dos estilos que o proprio navegador faz*/
+
+ul {
+    list-style-type: none;
+}
